@@ -21,7 +21,7 @@ public class Account {
 
     public void saque(Double valor){
 
-        Double saldoBase = 10.00;
+        //Double saldoBase = 10.00;
 
 
         if(valor < getSaldo()) {
